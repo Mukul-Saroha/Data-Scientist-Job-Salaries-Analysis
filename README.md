@@ -1,1 +1,2 @@
 # Data-Scientist-Job-Salaries-Analysis
+In conclusion, the Data Science Job Salaries Dataset offers significant insights into the employment landscape for data science experts. Analysis of this dataset has revealed important patterns and trends, illuminating aspects such as salary variations, job titles, required experience levels, and the skills most in demand within the sector. The variation of salaries as you gain experience is a rising curve.
